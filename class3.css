@@ -1,0 +1,44 @@
+.mother{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+.box2{
+    height: 500px;
+    width: 500px;
+    background-color: darkseagreen;
+}
+h1{
+    font-size: 67px;
+    text-align: center;
+    display: inline-block;
+}
+h2{
+    font-size: 30px;
+    background-color:brown;
+    text-align:right;
+    display: inline-block;
+}
+p{
+    text-align: justify;
+}
+img{
+    border: 2.5px solid purple;
+    margin: auto;
+    display:block;
+    height: 40%;
+    width: 30%;
+}
+.middle{
+    border: 2.5px solid green;
+}
+#last{
+    border: 9px dashed chocolate;
+    margin: 20px 30px 10px 70px;
+    padding: 20px 30px 10px 70px;
+}
